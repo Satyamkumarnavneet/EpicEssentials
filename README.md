@@ -24,7 +24,7 @@ EpicEssentials is an online shopping project built using Spring Boot, Spring Web
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
-git clone https://github.com/yourusername/EpicEssentials.git
+git clone https://github.com/Satyamkumarnavneet/EpicEssentials.git
 2. **Navigate to the project directory:**
 cd EpicEssentials
 3. **Build the project using Maven:**
